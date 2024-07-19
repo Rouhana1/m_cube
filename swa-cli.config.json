@@ -1,0 +1,11 @@
+{
+  "$schema": "https://aka.ms/azure/static-web-apps-cli/schema",
+  "configurations": {
+    "m-cube": {
+      "appLocation": ".",
+      "outputLocation": ".",
+      "appName": "m-cube",
+      "resourceGroup": "m-cube-rg"
+    }
+  }
+}
